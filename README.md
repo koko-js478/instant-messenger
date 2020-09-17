@@ -1,5 +1,5 @@
 # Instant Messenger
-Instant messenger is a simple web app built using MERNG stack to chat with online friends.
+Instant messenger is a simple web app built using MongoDB, Express, React, Node, and GraphQL to chat with online friends.
 
 **DEMO**
 - Deployed to Heroku Cloud:
