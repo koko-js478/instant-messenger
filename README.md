@@ -1,5 +1,5 @@
-# messenger-reactjs-graphql-nodejs-mongodb
-Messenger is a chat application built using ReactJS, NodeJS, GraphQL, Websocket and MongoDB.
+# Instant Messenger
+Instant messenger is a simple web app built using MERNG stack to chat with online friends.
 
 **DEMO**
 - Deployed to Heroku Cloud:
